@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Zoe (she/her), a junior at the University of Toronto majored in Engineering.
+
+Currently I am learning the programming languages Julia and Swift.
+
+You can reach me on LinkedIn https://www.linkedin.com/in/chenzizhao/ or email zoe.chenzizhao@gmail.com.
 
 <!--
 **chenzizhao/chenzizhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
